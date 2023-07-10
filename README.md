@@ -1,2 +1,4 @@
 # OFFICE-SUPPLY-SET-ANALYSIS
-ANALYSIS OF OFFICE SUPPLY SET TO REVIEW THE FINANCIAL PERFORMANCE OVER THE PERIOD OF TWO YEARS
+Analysis Of Office Supply Set To Review The Financial Performance Of An Organization And The Performer Driver Products Over The Period of Two Years
+Analyzed and Visualized Using POWER BI
+Biro, Marker, and A4 Papers Are The Performer Driver Products
